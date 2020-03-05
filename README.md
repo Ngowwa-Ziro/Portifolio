@@ -1,8 +1,8 @@
 # My Portfolio
 * By **Joseph Ngowwa**
 ## DESCRIPTION
-*This a simple webpage about myself.
-* The active link to this webpage is
+* This a simple webpage about myself.
+* The active link to this webpage is https://ngowwa-ziro.github.io/Portifolio/.
 * Have fun visiting my webpage and live a comment
   ### REQUIREMENTS
 * For one to be able to access this webpage he or she must have an access to internet.
